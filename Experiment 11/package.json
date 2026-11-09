@@ -1,0 +1,14 @@
+{
+  "name": "javascript-selenium-testing",
+  "version": "1.0.0",
+  "description": "JavaScript testing using Selenium",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.25.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
